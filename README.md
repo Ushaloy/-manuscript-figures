@@ -1,4 +1,4 @@
-# -manuscript-figures
+
 # manuscript-figures
 
 Reproducible figure-generation notebook for the PINN (Richards equation) slope-stability
